@@ -6,6 +6,7 @@ namespace ShowMessages
     {
         private static void Main(string[] args)
         {
+            //this says hello LP!!
             Console.WriteLine("Hello LP1!");
         }
     }
